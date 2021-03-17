@@ -1,2 +1,73 @@
-# homework1
-Mini-Project
+<!DOCTYPE HTML>
+
+<html lang = "en">
+
+<head>
+     <title>Keron Hunter-CNIT 132</title>
+     <style>
+      body {
+          background-color:peru
+      }
+    
+     </style>
+    <meta name="description" content= "Module Three- Homework-Mini Project "/>
+    <meta charset = "UTF-8" />
+</head>
+    <body>
+    <h1 style="text-align:center">Keron Hunter-CNIT 132</h1>
+     
+    <ul>
+            <li><a href="../Desktop/homework1.html">Home</a></li>
+            <li><a href="../Desktop/assignments.html">Assignments</a></li>
+            <li>Meetup</li>
+            <li>Contact</li>
+            
+        </ul>
+    
+    <img src="KeronCNIT.png" height="150" style="display: block; margin-left: auto; margin-right: auto;" alt="A picture of myself in business attire."/>
+   
+    
+ <p>
+     My name is Keron Hunter and I am originally from Jamaica but reside in Hayward, California.  I have decided to do a career change from the finance profession and currently pursuing an Associate Degree in Computer Networking and Information Technology. I am currently enrolled in the CNIT 132 class at the City College of San Francisco which is intermediate HTML and CSS-501. The reason why I am doing this class is to learn new skills and to upgrade and enhance my career. Thus far, I have learned how to make a basic web page using HTML5 which is the standard markup language. It is the most basic building block you'll need for developing websites.  In addition to that, I have learned how to create the page’s layout, color, fonts, and style using CSS (Cascading Style Sheets). </p>
+     
+           
+     <p> 
+         My path in the Web development field thus far has been slow but very good. I have always from a tender age been interested in computers and how websites are built but never gotten the chance to pursue a career due to my love for numbers and eventually deviated into the finance world. After accomplishing my degree in Finance and Banking I realised that wasn't the career path for me and here I am now currently taking classes to become a web developer.  <a href="https://www.fabriziovanmarciano.com/design-and-developer-websites/" target="_blank" rel="noopener noreferrer">13 Web Developer Websites To Follow To Improve Your Skills:</a> The link provided is one of my favortie websites due to the fact it speaks to the different websites that can be of assistance to beginners just as myself. I must say that this website has helped me tremendously along with the CNIT 132 class. For example, the website recommended me to use github which is a community driven development platform where you can learn new techniques from over 23 million developers, as well as share your own knowledge and resources.</p>
+         
+         <p>
+             
+             <a href= "https://www.techopedia.com/2/31579/networks/a-brief-history-of-web-development#the-turn-of-the-century" target="_blank" rel="noopener noreferrer">A Brief History of Web Development</a> Web development has been around since the 1980's and the link provided gives a brief history of where it all started. There is this saying, "To know your future you must know your past" and this website does exactly that. </p>
+   
+     
+  <hr />
+
+<H2 style="text-align:center">Good Links</H2>
+    
+    <ul>
+    
+    <li><a href="https://www.websitebuilderexpert.com/building-websites/coding-for-beginners/">Coding For Beginners:</a></li> 
+    </ul>
+    
+    <p>I would recommend the Coding For Beginners link to newly web developers who thinks that the most challenging thing in web development is that that they will have to learn how to code. 
+    
+    
+    <ul>
+        <li><a href="https://html.com/">Easiest Way to Start Learning HTML/CSS:</a></li> 
+    </ul>
+    
+     <p>The Easiest Way to Start Learning HTML/CSS website is very essentail to acces by individuals who are interested to become a web developer should have access to this website. It outlines the easiest ways to learn HTML and CSS. The site explains what a HTML and CSS entails, the history and helps in creating a basic HTML webpage and so much more. </p>   
+   
+    
+    <ul>
+        <li><a href="https://hackr.io/blog/best-html-courses">HTML/CSS Courses:</a></li>
+    </ul>    
+        <p>Having additional courses to assist in the learning process of an individual who wants to learn HTML and CSS is very essential. The HTML/CSS Courses website provides additional links where individuals can have access to in order to be proficient in web development. </p>
+  
+    
+    <p>    
+ Keron Hunter
+      Date Created: 02/20/21 </p>
+
+    </body>
+
+     </html>
